@@ -1,0 +1,161 @@
+body {
+    margin: 0 auto;
+    height: 100vh;
+    width: 100%;
+    
+}
+
+#home-page{
+    background-color: #86A3B8;
+    padding-left: 20px;
+    margin: 0 auto;
+}
+
+
+.doctors{
+    width: 100%;
+}
+
+
+.navbar-brand{
+    color: aqua;
+    font-family: 'Staatliches', cursive;
+    font-size: 2rem;
+    font-weight: bold;
+}
+.quote{
+    text-align: left;
+}
+nav-item{
+    color: aqua;
+}
+nav-item{
+    color: aquamarine;
+}
+.moto{
+    padding-top: 40px;
+    font-family: 'Staatliches', cursive;
+    color: #fff;
+    font-size: 2.5rem;    
+}
+.moto1{
+    text-align: left;
+    font-family: 'Montserrat-Bold', sans-serif;
+    margin-top: 40px;
+}
+.button1{
+    color: #86A3B8;
+    margin-top: 110px;
+    margin-bottom: 30px;
+}
+.button2{
+    color: #fff;
+    margin-top: 110px;
+    margin-bottom: 30px;
+    margin-left: 10px;
+
+}
+.search{
+    margin-left: 5px;
+}
+.heading2{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+.heading3{
+    text-align: center;
+    font-family: 'Staatliches', cursive;
+}
+.photos1{
+    vertical-align: centre;
+    display: inline-block;
+}
+.sec-img{
+    width: 100%;
+}
+.grid1{
+    padding-left: 80px;
+    padding-right: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.sec-text{
+    text-align: center;
+    padding-top: 10px;
+}
+
+#testimonials{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.carousel-item{
+    padding: 5% 5%;
+}
+.testimonials-head{
+    padding-top: 30px;
+}
+.container{
+    padding-top: 15px;
+    text-align: center;
+
+}
+.servie-img{
+    width: 30%;
+}
+#sevices{
+    background-color: bisque;
+    text-align: center;
+    padding-top: 60px;
+}
+#social{
+    text-align: center;
+    padding-top: 30px;
+    background-color: #86A3B8;
+}
+.contact{
+    width: 30%;
+    margin: 40px auto 60px;
+}
+.btn1 {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999E);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn1:hover {
+    background: #30E3CB;
+    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AB);
+    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AB);
+    background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AB);
+    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AB);
+    background-image: linear-gradient(to bottom, #30E3CB, #2BC4AB);
+    text-decoration: none;
+  }
+
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    margin-bottom: 0;
+    padding: 30px 0;
+}
+.bottom-container{
+    padding-top: 20px;
+}
+.footer-link{
+    padding-left: 10px;
+    padding-right: 10px;
+}
